@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/notes-app-dev/favicon.ico",
-      "/notes-app-dev/runtime.dbb807ca52c629c858f4.js",
+      "/notes-app-dev/runtime.c0891de60dad6efe891b.js",
       "/notes-app-dev/"
     ],
     "additional": [
@@ -49,17 +49,17 @@ var __wpo = {
     "df5d118440e249793f045a89e26a95b6f7abd50e": "/notes-app-dev/npm.react-app-polyfill.7ba3d8970fa918f815bb.chunk.js",
     "f94f7b03147f43c6298c7c31cf50110cb3e09879": "/notes-app-dev/npm.react-redux.c70dd14a0546014869b9.chunk.js",
     "d3259bb6563bad5331a06fc387b547a3f72980d2": "/notes-app-dev/npm.uuidv4.afd831f8e5bd82edc113.chunk.js",
-    "8f7ea29ed6bfe4cb8fe1ce5d491d86843915861d": "/notes-app-dev/runtime.dbb807ca52c629c858f4.js",
+    "a3d0baad905b134f2b3dbccc7aa129c27b9382a1": "/notes-app-dev/runtime.c0891de60dad6efe891b.js",
     "5388e4afc30686d3b02f8c1d6c8ffab8de7bc2dc": "/notes-app-dev/17.5b74f7081e36e8df87d3.chunk.js",
     "981104001a1f6a966e4faaba1d7915b8a2ae0c2c": "/notes-app-dev/18.d8e6a6659823c60454a6.chunk.js",
     "234e7c1c93284ea0d7cc3a975b55a15dcb858d44": "/notes-app-dev/19.698b35a3328d24df2727.chunk.js",
     "69968c8725b3f6e3785fac252c0e0e5575a775fd": "/notes-app-dev/20.304e1bc6769e67d20d3f.chunk.js",
     "e5c4f0340deefa3a5e2057072fb8a8ecdc109471": "/notes-app-dev/21.735917a97bf04d4af5d7.chunk.js",
-    "c533fc6f3aca6f7555366c31de9aa7cdb4aedad7": "/notes-app-dev/"
+    "13799ee6ee4a12ccb68367eb5674381c8a47f43d": "/notes-app-dev/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2021-5-5 17:10:48",
+  "version": "2021-5-5 17:21:32",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -144,7 +144,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/notes-app-dev";
+/******/ 	__webpack_require__.p = "/notes-app-dev/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
