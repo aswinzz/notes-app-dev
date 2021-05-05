@@ -14,7 +14,7 @@ var __wpo = {
       "/notes-app-dev/npm.redux-saga.49cfc151735411ea28a1.chunk.js",
       "/notes-app-dev/npm.uiw.b1becc51b6b431f25046.chunk.js",
       "/notes-app-dev/npm.webpack.b7c12f1a4d33c5e623a9.chunk.js",
-      "/notes-app-dev/main.8f5d4755378c7a366564.chunk.js",
+      "/notes-app-dev/main.b86a023dafa7904ab134.chunk.js",
       "/notes-app-dev/npm.babel.e772512d6346a5362de3.chunk.js",
       "/notes-app-dev/npm.connected-react-router.31e8d869acddac75f6d5.chunk.js",
       "/notes-app-dev/npm.intl-messageformat.6436cb2796e60b764ea5.chunk.js",
@@ -41,7 +41,7 @@ var __wpo = {
     "4661dd7ad033018f5fe50294fa00432b7e7e07d7": "/notes-app-dev/npm.redux-saga.49cfc151735411ea28a1.chunk.js",
     "c7730b02ea6bb1a100863c4edbea227941facd3d": "/notes-app-dev/npm.uiw.b1becc51b6b431f25046.chunk.js",
     "b81930b42c97d043e7d133c6b9c56a74c77e677c": "/notes-app-dev/npm.webpack.b7c12f1a4d33c5e623a9.chunk.js",
-    "2347ca4fe5d7d85a2b1f7ed6548616d32112a646": "/notes-app-dev/main.8f5d4755378c7a366564.chunk.js",
+    "7883fe3a450f75a950c1f2ccc22babb5ca6f8f39": "/notes-app-dev/main.b86a023dafa7904ab134.chunk.js",
     "8654f6db2e75c520aa5d9b504598857437107071": "/notes-app-dev/npm.babel.e772512d6346a5362de3.chunk.js",
     "3e5ab7416565b042c7401f19633375a28b11dd61": "/notes-app-dev/npm.connected-react-router.31e8d869acddac75f6d5.chunk.js",
     "7e03daa3841824bbb7ddd7de9e5dc59331d46651": "/notes-app-dev/npm.intl-messageformat.6436cb2796e60b764ea5.chunk.js",
@@ -55,11 +55,11 @@ var __wpo = {
     "234e7c1c93284ea0d7cc3a975b55a15dcb858d44": "/notes-app-dev/19.698b35a3328d24df2727.chunk.js",
     "69968c8725b3f6e3785fac252c0e0e5575a775fd": "/notes-app-dev/20.304e1bc6769e67d20d3f.chunk.js",
     "e5c4f0340deefa3a5e2057072fb8a8ecdc109471": "/notes-app-dev/21.735917a97bf04d4af5d7.chunk.js",
-    "13799ee6ee4a12ccb68367eb5674381c8a47f43d": "/notes-app-dev/"
+    "c0c1f736fa66490bc5b674632993d8133745b4d5": "/notes-app-dev/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2021-5-5 17:21:32",
+  "version": "2021-5-5 17:52:27",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
